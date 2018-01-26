@@ -1,0 +1,12 @@
+.center {
+  width: 100%;
+  text-align: center;
+}
+html {
+  font-family: arial;
+  font-size: 20px;
+}
+
+.italic {
+  font-style: italic;
+}
